@@ -1,0 +1,15 @@
+{
+  "timeZone": "Europe/London",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "yourDoggerServer",
+      "libraryId": "1n4FMjgP3lW5Y7R4Ru6jtfLcgbxzShXQEJvGt4ZGPmsyBOGBYk66sp2l9",
+      "version": "19"
+    }]
+  },
+  "webapp": {
+    "access": "ANYONE_ANONYMOUS",
+    "executeAs": "USER_DEPLOYING"
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
